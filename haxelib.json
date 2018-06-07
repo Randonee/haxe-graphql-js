@@ -1,0 +1,14 @@
+{
+	"name": "haxe-graphql-js",
+	"description": "Javascript externs graphql-js",
+	"classPath": "src",
+	"url": "https://github.com/Randonee/haxe-graphql-js",
+	"contributors": [
+		"randonee"
+	],
+	"version": "0.0.1",
+	"tags": [
+		"graphql"
+	],
+	"license": "MIT"
+}
